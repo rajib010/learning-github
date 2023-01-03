@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: absolute;
+    width: 75%;
+    left: 25%;
+    background-color: aliceblue;
+    height: 50px;
+}
+aside{
+    position: absolute;
+    width: 24%;
+    background-color: #1D3CE1;
+    height: 100%;
+}
+main{
+    position: relative;
+    width: 75%;
+    background-color: azure;
+    top: 65px;
+    left: 25%;
+    height: 500px;
+    overflow-y: scroll;
+}
+footer{
+    position: absolute;
+    width: 75%;
+    left: 25%;
+    background-color: green;
+    height: 50px;
+    top: 600px;
+    
+}
